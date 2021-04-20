@@ -13,7 +13,7 @@ namespace login_or_register_system
         static void Main(string[] args)
         {
             // creats some string and some doubles
-            string email = "haydenlerouge@gmail.com";
+            string email = "your email here <-----";
 
             bool isRegistered;
 

@@ -1,5 +1,6 @@
 # my-login-project
-/* using System;
+// start the program
+using System;
 
 namespace login_or_register_system
 {

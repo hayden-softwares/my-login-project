@@ -1,5 +1,5 @@
 
-
+THIS IS CODED IN C# AND MADE IN VISUAL STUDIO BUT ANYTHING THAT RUNS .NET IN C# WILL WORK (also use the console not the terminal)
 
 
 

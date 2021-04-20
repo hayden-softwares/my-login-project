@@ -1,6 +1,12 @@
 # my-login-project
 // start the program
 (; don t steal this code pls :)
+hi
+bye 
+am
+here
+haloooo
+
 
 
 
